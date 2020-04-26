@@ -1,0 +1,50 @@
+
+.card-reservation {
+  overflow: hidden;
+  height: 200px;
+  background: white;
+  width: 1000px;
+  box-shadow: 0 0 15px rgba(0,0,0,0.2);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin: 8px;
+  margin-top: 5px;
+  li {
+    list-style-type: none;
+  }
+}
+
+.card-reservation img {
+  height: 180px;
+  align-items: center;
+  // width: 300px;
+  // object-fit: cover;
+}
+
+.card-reservation .col-8 h7 {
+  text-align: right;
+  text-decoration: underline;
+  // width: 300px;
+  // object-fit: cover;
+}
+
+.price {
+  align-items: top;
+  text-decoration: underline;
+}
+.btn-primary{
+  margin-top: 8px;
+  align-items: flex-end;
+}
+
+.reservation container {
+  align-items: center;
+}
+
+.avatar-reservation{
+  border-radius: 50%;
+  float:left;
+  margin-bottom: 50px;
+  margin-right: 80px;
+}

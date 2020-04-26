@@ -1,0 +1,54 @@
+.background {
+  background-image: url("https://res.cloudinary.com/dc9pm7uj8/image/upload/v1586424838/fond_rent_a_pet_mfcztp.png");
+  background-repeat: no-repeat;
+  background-position:50% 50%;
+  height: 100vh;
+  background-size: 100%;
+  background-attachment: fixed;
+}
+.center{
+  text-align:center;
+  width: 1500px;
+}
+.title {
+  padding-top:100px;
+  color: white;
+  font-family: 'Lobster', cursive;
+  font-weight: bold;
+  font-size: 110px;
+  text-shadow: 2px 0 0 black, 2px 2px 0 black, 0 2px 0 black, -2px 2px 0 black, -2px 0 0 black, -2px -2px 0 black, 0 -2px 0 black, 2px -2px 0 black;
+}
+.content {
+  margin: 80px 0;
+  color: white;
+  font-size:30px;
+  font-weight:bold;
+}
+.button-home {
+
+  background-color: white;
+  border-radius:10px;
+  color: black;
+  padding: 10px 50px;
+  font-size: 40px;
+  text-align: center;
+  font-family: 'Lobster', cursive;
+  border: 2px solid white;
+
+  &:hover {
+  color: white;
+  background-color: black;
+  border: 2px solid white;
+  }
+}
+
+
+.beware{
+  width: 100%;
+  text-align: center;
+  color:white;
+  margin-top: 120px;
+}
+
+
+
